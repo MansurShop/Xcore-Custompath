@@ -28,6 +28,5 @@ Xray MOD version
 - v25.3.31
 
 Credit : 
-
-• NevermoreSSH
-• MansurShop (Tester)
+- NevermoreSSH
+- MansurShop (Tester)
