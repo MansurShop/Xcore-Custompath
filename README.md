@@ -1,11 +1,11 @@
 # Install Xray-core Changer
 [ for path /usr/local/bin/xray ]
  ```html
-wget -q -O /usr/bin/xraychanger "https://raw.githubusercontent.com/NevermoreSSH/Xcore-custompath/main/xraychanger.sh" && chmod +x /usr/bin/xraychanger && xraychanger
+wget -q -O /usr/bin/xraychanger "https://raw.githubusercontent.com/MansurShop/Xcore-Custompath/main/xraychanger.sh" && chmod +x /usr/bin/xraychanger && xraychanger
   ```
 or [ for path /usr/sbin/xray ]
  ```html
-wget -q -O /usr/bin/xraychanger2 "https://raw.githubusercontent.com/NevermoreSSH/Xcore-custompath/main/xraychanger2.sh" && chmod +x /usr/bin/xraychanger2 && xraychanger2
+wget -q -O /usr/bin/xraychanger2 "https://raw.githubusercontent.com/MansurShop/Xcore-Custompath/main/xraychanger2.sh" && chmod +x /usr/bin/xraychanger2 && xraychanger2
   ```
 Then Just type command below
 
@@ -26,3 +26,6 @@ Xray MOD version
 - v1.6.5
 - v1.7.2-1
 - v25.3.31
+
+Credit : 
+• NevermoreSSH
