@@ -30,3 +30,4 @@ Xray MOD version
 Credit : 
 
 • NevermoreSSH
+• MansurShop (Tester)
