@@ -2,8 +2,8 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition V1.0
-# Auther  : NevermoreSSH
-# (C) Copyright 2022
+# Auther  : MansurShop
+# (C) Copyright 2025
 # =========================================
 R='\e[1;31m'
 P='\e[0;35m'
@@ -28,8 +28,8 @@ clear
 echo -e "\e[36m╒════════════════════════════════════════════╕\033[0m"
 echo -e " \E[0;47;30m               XRAY-CORE CHANGER            \E[0m"
 echo -e "\e[36m╘════════════════════════════════════════════╛\033[0m
-\033[1;37mXray-core Changer By NevermoreSSH\033[0m
-\033[1;37mTelegram : https://t.me/todfix667 \033[0m"
+\033[1;37mXray-core Changer By MansurShop\033[0m
+\033[1;37mTelegram : https://t.me/mansurshopbot \033[0m"
 echo -e 
 echo -e "
 \033[1;36m\033[0m Current version : ${orange}v${current_version} ${NC}
